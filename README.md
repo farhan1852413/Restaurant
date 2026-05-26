@@ -1,9 +1,9 @@
 # 🏋️ FlexIt Performance Lab
 
-> **Engineered for Excellence** — A premium fitness facility and membership platform where elite athletes and fitness enthusiasts break their limits.
+ A premium fitness facility and membership platform where elite athletes and fitness enthusiasts break their limits.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/username/flexit)](https://github.com/username/flexit)
+[![GitHub license] (https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Last Commit] (https://img.shields.io/github/last-commit/username/flexit)](https://github.com/username/flexit)
 
 ---
 
